@@ -6,12 +6,13 @@ import Counter from './Counter'
 import Change from './Change'
 import Objects from './Objects'
 import ArrayUpdate from './ArrayUpdate'
+import ArrayObjectUpdate from './ArrayObjectUpdate'
 
 
 
 const App = () => {
   return (
-  <ArrayUpdate/>
+  <ArrayObjectUpdate/>
   )
 }
 
