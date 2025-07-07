@@ -7,12 +7,13 @@ import Change from './Change'
 import Objects from './Objects'
 import ArrayUpdate from './ArrayUpdate'
 import ArrayObjectUpdate from './ArrayObjectUpdate'
+import TodoApp from './TodoApp'
 
 
 
 const App = () => {
   return (
-  <ArrayObjectUpdate/>
+  <TodoApp/>
   )
 }
 
